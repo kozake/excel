@@ -1,0 +1,220 @@
+AdventCalendar(ac1):
+    category: 関数型言語
+    name: Haskell Advent Calendar 2011
+    url: http://partake.in/events/eaea52c2-61ef-46d5-a855-3a2dde459e3a
+
+AdventCalendar(ac2):
+    category: 関数型言語
+    name: Scala Advent Calendar jp 2011
+    url: http://partake.in/events/33870915-f25b-40b6-9456-b898b898d48b
+
+AdventCalendar(ac3):
+    category: 関数型言語
+    name: Clojure Advent Calendar 2011
+    url: http://partake.in/events/393770ce-4637-4f07-bc14-a1f5120eab71
+
+AdventCalendar(ac4):
+    category: 関数型言語
+    name: F# Advent Calendar 2011
+    url: http://partake.in/events/1c24993a-c475-4fc2-bca4-7a1cd2f81869
+
+AdventCalendar(ac5):
+    category: 関数型言語
+    name: R Advent Calendar 2011
+    url: http://atnd.org/events/22039
+
+AdventCalendar(ac6):
+    category: C#
+    name: C# Advent Calendar 2011
+    url: http://atnd.org/events/21988
+
+AdventCalendar(ac7):
+    category: JavaScript
+    name: JavaScript Advent Calendar 2011(四本立て)
+    url: http://d.hatena.ne.jp/edvakf/20111110/1320936218
+
+AdventCalendar(ac8):
+    category: JavaScript
+    name: Backbone.js Advent Calendar 2011
+    url: http://atnd.org/events/22017
+
+AdventCalendar(ac9):
+    category: Light Weight
+    name: PyPy Advent Calendar 2011
+    url: http://atnd.org/events/22078
+
+AdventCalendar(ac10):
+    category: Light Weight
+    name: 2011 Pythonアドベントカレンダー(Python3)
+    url: https://connpass.com/event/142/
+
+AdventCalendar(ac11):
+    category: Light Weight
+    name: Ruby Advent Calendar jp 2011
+    url: http://atnd.org/events/22021
+
+AdventCalendar(ac12):
+    category: Light Weight
+    name: Nimrod Advent Calendar jp 2011
+    url: http://atnd.org/events/22123
+
+AdventCalendar(ac13):
+    category: C++
+    name: C++11 Advent Calendar 2011
+    url: http://atnd.org/events/21936
+
+AdventCalendar(ac14):
+    category: C++
+    name: Boost Advent Calender 2011
+    url: http://partake.in/events/597a0fc3-0e3a-47a3-8fc3-4f32ad846a3d
+
+AdventCalendar(ac15):
+    category: C++
+    name: bjam Advent Calendar jp 2011
+    url: http://atnd.org/events/20321
+
+AdventCalendar(ac16):
+    category: Java
+    name: G* Advent Calendar 2011
+    url: http://atnd.org/events/22483
+
+AdventCalendar(ac17):
+    category: Java
+    name: Java Advent Calendar 2011
+    url: http://atnd.org/events/22434
+
+AdventCalendar(ac18):
+    category: PHP
+    name: PHP5.4 Advent Calendar 2011
+    url: http://atnd.org/events/22473
+
+AdventCalendar(ac19):
+    category: PHP
+    name: CakePHP Advent Calendar 2011
+    url: http://atnd.org/events/22721
+
+AdventCalendar(ac20):
+    category: PHP
+    name: FuelPHP Advent Calendar 2011
+    url: http://atnd.org/events/22380
+
+AdventCalendar(ac21):
+    category: PHP
+    name: Symfony Advent Calendar JP 2011
+    url: http://atnd.org/events/22378
+
+AdventCalendar(ac22):
+    category: 開発環境
+    name: Vim Advent Calendar 2011
+    url: http://atnd.org/events/21925
+
+AdventCalendar(ac23):
+    category: 開発環境
+    name: Emacs Advent Calendar jp 2011
+    url: http://atnd.org/events/21982
+
+AdventCalendar(ac24):
+    category: 開発環境
+    name: ターミナルマルチプレクサ Advent Calendar 2011
+    url: http://atnd.org/events/22320
+
+AdventCalendar(ac25):
+    category: データベース
+    name: PostgtreSQL Advent Calendar
+    url: http://atnd.org/events/21994
+
+AdventCalendar(ac26):
+    category: フレームワーク
+    name: Play! framework Advent Calendar 2011 jp #play_ja
+    url: http://atnd.org/events/22247
+
+AdventCalendar(ac27):
+    category: フレームワーク
+    name: hadoopアドベントカレンダー2011
+    url: http://www.zusaar.com/event/174001
+
+AdventCalendar(ac28):
+    category: フレームワーク
+    name: Silverlight Advent Calendar 2011
+    url: http://atnd.org/events/22001
+
+AdventCalendar(ac29):
+    category: フレームワーク
+    name: Titanium Advent Calendar 2011
+    url: http://atnd.org/events/21951
+
+AdventCalendar(ac30):
+    category: ウェブ
+    name: HTML5 Advent Calendar 2011
+    url: http://atnd.org/events/21987
+
+AdventCalendar(ac31):
+    category: ウェブ
+    name: Less & Sass Advent calendar 2011
+    url: http://atnd.org/events/21919
+
+AdventCalendar(ac32):
+    category: カーネル/VM
+    name: カーネル／VM Advent Calendar
+    url: http://atnd.org/events/21910
+
+AdventCalendar(ac33):
+    category: 開発手法
+    name: TDD Advent Calendar jp 2011
+    url: http://atnd.org/events/22027
+
+AdventCalendar(ac34):
+    category: 開発手法
+    name: Theorem Proving Advent Calendar
+    url: http://partake.in/events/30381166-394a-4fab-a5ea-5984d051de01?utm_source=twitterfeed&utm_medium=twitter
+
+AdventCalendar(ac35):
+    category: 開発手法
+    name: Jenkins Advent Calendar jp 2011
+    url: http://atnd.org/events/22048
+
+AdventCalendar(ac36):
+    category: バージョン管理
+    name: Mercurial Advent Calender 2011
+    url: http://partake.in/events/902cd6d9-0215-4ea3-b51f-b8ff32e56426?utm_source=twitterfeed&utm_medium=twitter
+
+AdventCalendar(ac37):
+    category: 競技プログラミング
+    name: Competitive Programming Advent Calendar
+    url: http://partake.in/events/ee35b200-e151-44c1-b123-482d0a7447b5
+
+AdventCalendar(ac38):
+    category: Tumblr
+    name: Reblog Advent Calend*e*r 3011
+    url: http://atnd.org/events/22672
+
+AdventCalendar(ac39):
+    category: その他
+    name: Cloud Foundry jp Advent Calendar 2011
+    url: http://atnd.org/events/22596
+
+AdventCalendar(ac40):
+    category: その他
+    name: Esolang Advent Calendar 2011
+    url: http://atnd.org/events/22463
+
+AdventCalendar(ac41):
+    category: その他
+    name: PowerShell Advent Calendar 2011
+    url: http://atnd.org/events/22073
+
+AdventCalendar(ac42):
+    category: その他
+    name: 変態アドベントカレンダー
+    url: http://atnd.org/events/22020
+
+AdventCalendar(ac43):
+    category: その他
+    name: Functional Ikamusume Advent Calendar jp 2011
+    url: http://partake.in/events/b79f232d-5234-4ce3-9b10-b01629d492e7
+
+AdventCalendar(ac44):
+    category: その他
+    name: DevLOVE 4tate Advent Calendar 2011
+    url: http://partake.in/events/b43c1fa1-00bb-4b8e-a0a8-af95156c2a83
+
